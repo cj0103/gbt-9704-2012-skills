@@ -282,7 +282,7 @@ gbt-9704-2012-skills/
 
 ## 项目来源与致谢
 
-本工具是在 [document-format-skills](https://github.com/ChenXuanZhou/document-format-skills) 项目基础上，针对国家行政机关公文格式（GB/T 9704-2012）进行的专项开发和优化。
+本工具是在 [document-format-skills](https://github.com/KaguraNanaga/document-format-skills) 项目基础上，针对国家行政机关公文格式（GB/T 9704-2012）进行的专项开发和优化。
 
 ### 主要改进
 
@@ -296,4 +296,4 @@ gbt-9704-2012-skills/
 
 ## 许可证
 
-本工具遵循与 document-format-skills 项目相同的开源协议。
+本工具遵循MIT开源协议。
