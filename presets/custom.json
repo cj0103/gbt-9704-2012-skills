@@ -1,0 +1,141 @@
+{
+  "name": "自定义公文格式",
+  "description": "基于 GB/T 9704-2012 的自定义配置，可根据实际需求调整",
+  "page": {
+    "top": 3.7,
+    "bottom": 3.5,
+    "left": 2.8,
+    "right": 2.6
+  },
+  "title": {
+    "font_cn": "方正小标宋简体",
+    "font_en": "Times New Roman",
+    "size": 22,
+    "bold": false,
+    "align": "center",
+    "indent": 0,
+    "line_spacing": 28
+  },
+  "recipient": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "left",
+    "indent": 0,
+    "line_spacing": 28
+  },
+  "heading1": {
+    "font_cn": "黑体",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "left",
+    "indent": 32,
+    "line_spacing": 28
+  },
+  "heading2": {
+    "font_cn": "楷体_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "left",
+    "indent": 32,
+    "line_spacing": 28
+  },
+  "heading3": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "left",
+    "indent": 32,
+    "line_spacing": 28
+  },
+  "heading4": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "left",
+    "indent": 32,
+    "line_spacing": 28
+  },
+  "body": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "justify",
+    "indent": 32,
+    "line_spacing": 28
+  },
+  "signature": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "right",
+    "indent": 0,
+    "line_spacing": 28
+  },
+  "date": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "right",
+    "indent": 0,
+    "line_spacing": 28
+  },
+  "attachment": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "justify",
+    "indent": 32,
+    "line_spacing": 28
+  },
+  "closing": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "left",
+    "indent": 32,
+    "line_spacing": 28
+  },
+  "note": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "left",
+    "indent": 32,
+    "line_spacing": 28
+  },
+  "copy_to": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 16,
+    "bold": false,
+    "align": "justify",
+    "indent": 16,
+    "line_spacing": 28
+  },
+  "table": {
+    "font_cn": "仿宋_GB2312",
+    "font_en": "Times New Roman",
+    "size": 14,
+    "bold": false,
+    "line_spacing": 20,
+    "header_bold": true,
+    "first_line_indent": 0
+  },
+  "page_number": {
+    "enabled": true,
+    "font": "宋体",
+    "size": 14
+  }
+}
